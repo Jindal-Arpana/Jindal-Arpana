@@ -36,5 +36,5 @@ With over 13 years of industry experience, I specialize in **Quality Engineering
 
 ---
 
-💡 **“Quality is never an accident; it is always the result of intelligent effort.”* 
+💡 *“Quality is never an accident; it is always the result of intelligent effort.”* 
 																								*– John Ruskin*
