@@ -22,10 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium WebDriver" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/robotframework/robotframework.github.com/master/assets/images/robot-framework-logo.png" alt="Robot Framework" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rally_software_logo.svg/512px-Rally_software_logo.svg.png" alt="Rally" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
 </p>
 
   
