@@ -4,6 +4,7 @@
   - 🔭 I’m currently working on Automation and GenAI stack applications
   - 🌱 I’m currently learning Cloud and AI 
   - 👯 I’m looking to collaborate on Selenium WebDriver, Python, PyTest, GenerativeAI, LLM and RAG based applications
+  - 👨‍💻 All of my projects are available at https://github.com/Jindal-Arpana
   - 💬 Ask me about Testing
   - 📫 You can reach me: https://www.linkedin.com/in/arpana-jindal/
   - 😄 Pronouns: She/Her
