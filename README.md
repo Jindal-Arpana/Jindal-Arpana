@@ -1,4 +1,4 @@
-  ## Hi👋, I am Arpana Jindal
+  ## Hi👋, I'm Arpana Jindal
 
 
   - 🔭 I’m currently working on Automation and GenAI stack applications
