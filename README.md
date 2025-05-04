@@ -1,4 +1,8 @@
-  ## Hi👋, I'm Arpana Jindal
+  # 👋 Hi there, I'm Arpana Jindal
+
+🎯 **Software QA Professional | Automation Lead | Python Enthusiast | Generative AI Explorer**
+
+With over 13 years of industry experience, I specialize in **Quality Engineering**, **Automation Strategy**, and **Team Leadership**. I've contributed to large-scale projects at **Intel** and **Wipro**, and hold a Master's in Software Engineering from **BITS Pilani**.
 
 
   - 🔭 I’m currently working on Automation and GenAI stack applications
@@ -30,4 +34,7 @@
   
 </p>
 
-  
+---
+
+💡 **“Quality is never an accident; it is always the result of intelligent effort.”* 
+																								*– John Ruskin*
